@@ -1,0 +1,50 @@
+@media (min-width: 400px) and (max-width: 767.98px) {
+    
+
+    body{
+        background: url(../images/mathematics-equations-science-3d-wallpaper-preview.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+    }
+    .calculator {
+        padding: 5px;
+    }
+    h1 {
+        font-size: 20px;
+    }
+    .text {
+        font-size: 16px;
+    }
+    #firstNumber {
+        padding: 5px;
+        font-size: 14px;
+        width: 100px;
+    }
+    #secondNumber {
+        padding: 5px;
+        font-size: 14px;
+        width: 100px;
+    }
+    button {
+        padding: 4px;
+        font-size: 14px;
+    }
+    img {
+        width: 80px;
+        height: 80px;
+        left: 290px;
+    }
+    #result {
+        font-size: 20px;
+    }
+    .calculator {
+        left: 4%;
+        top: 30%;
+    }
+
+
+
+
+}
